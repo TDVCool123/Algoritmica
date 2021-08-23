@@ -6,4 +6,4 @@ Un Trie es una estructura de datos especial que se utiliza para almacenar cadena
 Se empieza en la raíz del árbol.Cada nodo consta de un máximo de 27 hijos (dependiendo del abecedario que se utilize) y los bordes conectan cada nodo padre con sus hijos. 
 Estos 27 punteros no son más que punteros para cada una de las 27 letras del alfabeto.
 
-![](![Trie](http://theoryofprogramming.azurewebsites.net/wp-content/uploads/2015/06/trie12.jpg))
+![Trie](http://theoryofprogramming.azurewebsites.net/wp-content/uploads/2015/06/trie12.jpg)
