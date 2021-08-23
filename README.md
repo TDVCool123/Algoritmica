@@ -1,6 +1,6 @@
 # Algoritmica-II
 En este repositorio se encuentra todos los algoritmos vistos en la materia de algoritmica 2.
-El repositorio se encuentra dividido en [algortimos](Algoritmica-II/Algoritmos)
+El repositorio se encuentra dividido en [algortimos](https://github.com/TDVCool123/Algoritmica-II/tree/main/Algoritmos)
 
 ## Estructuras de Datos
 -  [BIT](contenido/Estructura_de_datos/BIT)
