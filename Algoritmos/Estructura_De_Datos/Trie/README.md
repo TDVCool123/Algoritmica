@@ -6,7 +6,9 @@ Un Trie es una estructura de datos especial que se utiliza para almacenar cadena
 Se empieza en la raíz del árbol.Cada nodo consta de un máximo de 27 hijos (dependiendo del abecedario que se utilize) y los bordes conectan cada nodo padre con sus hijos. 
 Estos 27 punteros no son más que punteros para cada una de las 27 letras del alfabeto.
 
-![Trie](![image](https://user-images.githubusercontent.com/71155282/130507385-0ccaf4f5-1ff1-46c3-9f7a-8ca24b50e1bd.png))
+![Trie](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Ftrie-data-structure&psig=AOvVaw0mM0sC8NiJLb9nj37eqw2C&ust=1629825539312000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCkqLjTx_ICFQAAAAAdAAAAABAV)
 
 ## Referencias
-*[Trie](https://es.wikipedia.org/wiki/Trie#:~:text=Introducidos%20en%201959%20independientemente%20por,su%20nombre%20del%20ingl%C3%A9s%20reTRIEval).&text=Se%20empieza%20en%20la%20ra%C3%ADz%20del%20%C3%A1rbol.)
+*[Trie](https://es.wikipedia.org/wiki/Trie#:~:text=Introducidos%20en%201959%20independientemente%20por,su%20nombre%20del%20ingl%C3%A9s%20reTRIEval)
+*[Trie | (Insert and Search)](https://www.geeksforgeeks.org/trie-insert-and-search/)
+*[Trie (Keyword Tree)](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/)
