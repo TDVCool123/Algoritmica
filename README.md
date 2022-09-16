@@ -1,4 +1,4 @@
-# Algoritmica-II
+# Algoritmica
 En este repositorio se encuentra todos los algoritmos vistos en la materia de algoritmica 2.
 El repositorio se encuentra dividido en [algoritmos](https://github.com/TDVCool123/Algoritmica-II/tree/main/Algoritmos) y [Jueces](https://github.com/TDVCool123/Algoritmica-II/tree/main/Jueces).
 
